@@ -14,7 +14,7 @@ Created by: **Naufal Dzakwan**
 
 1. Clone this repository:
 ```
-git clone https://github.com/naufaldzakwan/vl-tracker.git
+git clone https://github.com/vlpemulajir/vl-tracker.git
 cd vl-tracker
 ```
 
